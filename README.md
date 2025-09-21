@@ -6,7 +6,7 @@ This repository is dedicated to the Bulgarian Traditional Phonetic Keyboard layo
 
 Tested in the latest MacOS version: **macOS 14 Sonoma**
 
-![](./bg-keyboard.png)
+![](./Keyboard_Layout_Bulgarian_Phonetic.png)
 
 
 
